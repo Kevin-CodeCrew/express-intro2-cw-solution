@@ -1,0 +1,23 @@
+{
+  "name": "express-intro2-cw-solution",
+  "version": "1.0.0",
+  "description": "Solution to routes and modules classwork",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevin-CodeCrew/express-intro2-cw-solution.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kevin-CodeCrew/express-intro2-cw-solution/issues"
+  },
+  "homepage": "https://github.com/Kevin-CodeCrew/express-intro2-cw-solution#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10"
+  }
+}
